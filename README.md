@@ -1,0 +1,1 @@
+This repo will contain snippets of code I pratice in my great quest to be like Julien Barbier which is synonymous with me unleashing the power of programming across the world, from mundane libraries like tkinter to stuff like a cheeky orm wrapper for mongodb I will be putting stuff here so that my lack of laptop doesn't affect me too much
